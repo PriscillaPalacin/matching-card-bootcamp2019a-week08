@@ -1,0 +1,75 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: pink;
+}
+
+h1 {
+  font-size: 40px;
+  color: white;
+  text-align: center;
+}
+
+section {
+  background-color: white;
+}
+
+.card {
+  height: 200px;
+  width: 200px;
+  background-image: url(../img/thinking.png);
+  background-size: cover;
+  border: 2px solid pink;
+  border-radius: 10px;
+  margin-left: 30px;
+  margin-top: 15px;
+  float: left;
+}
+
+.selected.one {
+  background-image: url(../img/bcf.png);
+}
+
+.selected.two {
+  background-image: url(../img/whytho.jpg);
+}
+
+.selected.three {
+  background-image: url(../img/what.jpg);
+}
+
+.selected.four {
+  background-image: url(../img/think.jpeg);
+}
+
+.selected.five {
+  background-image: url(../img/wow.jpg);
+}
+
+.selected.six {
+  background-image: url(../img/mmmm.jpg);
+}
+
+.matched.one {
+  background-image: url(../img/bcf.png)
+}
+
+.matched.two {
+  background-image: url(../img/whytho.jpg);
+}
+
+.matched.three {
+  background-image: url(../img/what.jpg);
+}
+
+.matched.four {
+  background-image: url(../img/think.jpeg);
+}
+
+.matched.five {
+  background-image: url(../img/wow.jpg);
+}
+
+.matched.six {
+  background-image: url(../img/mmmm.jpg);
+}
